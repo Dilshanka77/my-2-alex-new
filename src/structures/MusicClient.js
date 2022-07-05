@@ -124,7 +124,7 @@ class MusicBot extends Client {
     this.logger.log('[DB] DATABASE CONNECTED', "ready");
   }
   connect() {
-    return super.login(this.token);
+    return super.login('OTU1MDUyMzk3OTQyNzAyMTMw.G0M_ng.MI58Jl8oJhfciAAoF6AGvIV1rU4l5wqvP2VP5o');
   };
 };
 
